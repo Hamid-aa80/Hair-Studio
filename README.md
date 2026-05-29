@@ -1,5 +1,4 @@
 # FLOWER--SHOP
-my sample work
 
 ## LIVE SITE
 
