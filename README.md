@@ -3,10 +3,9 @@
 ## LIVE SITE
 
 Live website:
-https://hamid-aa80.github.io/Hair-Studio/
+https://hamid-aa80.github.io/Flower--Shop/
 Repository:
-https://github.com/Hamid-aa80/Hair-Studio.git
-
+https://github.com/Hamid-aa80/Flower--Shop.git
 ## PROJECT OVERVIEW
 
 This is a simple professional template for showcasing my work. I am a creative and motivated web developer who is passionate about designing and developing modern websites
